@@ -2,7 +2,7 @@ dist/
 coverage.out
 .DS_Store
 *.log
-memctl
+/memctl
 *.db
 *.db-shm
 *.db-wal
