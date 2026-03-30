@@ -1,0 +1,10 @@
+dist/
+coverage.out
+.DS_Store
+*.log
+memctl
+*.db
+*.db-shm
+*.db-wal
+githubsshkey
+githubsshkey.pub
