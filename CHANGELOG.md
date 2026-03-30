@@ -6,6 +6,8 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-03-30
+
 ### Added
 
 - SQLite runtime store with JSON import/export and automatic legacy `memories.json` migration.
@@ -20,5 +22,4 @@ The format is based on Keep a Changelog and this project follows Semantic Versio
 
 ### Notes
 
-- The first public release is intended to be tagged as `v0.1.0`.
 - The current module path targets `github.com/pxiaohui2022-crypto/codex_memctrl`.
